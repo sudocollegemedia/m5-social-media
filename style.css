@@ -94,6 +94,13 @@ body {
     min-height: 24rem;
 }
 
+.post-image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    width: 16rem;
+}
+
 @media (max-width: 600px) {
     .header-inner {
         align-items: flex-start;
@@ -120,4 +127,3 @@ body {
         padding: 2rem 1.6rem;
     }
 }
-
