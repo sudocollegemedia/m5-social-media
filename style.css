@@ -90,10 +90,6 @@ body {
     font-weight: 700;
 }
 
-.post-content {
-    min-height: 24rem;
-}
-
 .post-image {
     display: block;
     height: auto;
