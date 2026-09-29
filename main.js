@@ -22,7 +22,7 @@ const extraPosts = [
         dateValue: "2026-09-16",
         date: "16 september 2026",
         title: "Nieuw nieuwsbericht",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        content: "Tweede opdracht, Javascript gebouwde post.",
         image: "insert.png",
         imageAlt: "Afbeelding bij het nieuwsbericht"
     },
@@ -31,7 +31,7 @@ const extraPosts = [
         dateValue: "2026-09-17",
         date: "17 september 2026",
         title: "Sportnieuws van vandaag",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        content: "Tweede opdracht, Javascript gebouwde post.",
         image: "insert.png",
         imageAlt: "Afbeelding bij het sportbericht"
     }

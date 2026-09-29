@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Nieuws",
+    "dateValue": "2026-09-16",
+    "date": "16 september 2026",
+    "title": "Nieuw nieuwsbericht",
+    "content": "Tweede opdracht, Javascript gebouwde post.",
+    "image": "insert.png",
+    "imageAlt": "Afbeelding bij het nieuwsbericht"
+  },
+  {
+    "category": "Community",
+    "dateValue": "2026-09-15",
+    "date": "15 september 2026",
+    "title": "Samen maken we de buurt groener",
+    "content": "Afgelopen weekend staken buurtbewoners de handen uit de mouwen en plantten ze nieuwe bloemen en struiken in het park.",
+    "image": "park.png",
+    "imageAlt": "Buurtbewoners planten bloemen in het park"
+  },
+  {
+    "category": "Evenementen",
+    "dateValue": "2026-09-14",
+    "date": "14 september 2026",
+    "title": "Muziekavond op het plein",
+    "content": "Vrijdag verandert het dorpsplein in een openluchtpodium. Neem je vrienden mee en geniet van lokale bands.",
+    "image": "muziekavond.png",
+    "imageAlt": "Muzikanten spelen op een buitenpodium"
+  },
+  {
+    "category": "Sport",
+    "dateValue": "2026-09-13",
+    "date": "13 september 2026",
+    "title": "Een sportieve start van de zondag",
+    "content": "De wekelijkse hardloopgroep vertrekt zondag om negen uur vanaf de ingang van het park. Iedereen kan meedoen.",
+    "image": "hardlopen.png",
+    "imageAlt": "Hardlopers trainen samen in het park"
+  },
+  {
+    "category": "Eten",
+    "dateValue": "2026-09-12",
+    "date": "12 september 2026",
+    "title": "De oogstmarkt is terug",
+    "content": "Lokale makers en boeren staan zaterdag klaar met verse groenten, brood en lekkers van eigen bodem.",
+    "image": "oogstmarkt.png",
+    "imageAlt": "Kraampjes met verse producten op een markt"
+  },
+  {
+    "category": "Cultuur",
+    "dateValue": "2026-09-11",
+    "date": "11 september 2026",
+    "title": "Nieuwe expositie van lokale kunstenaars",
+    "content": "In het buurthuis is deze maand werk te zien van kunstenaars uit de omgeving. De toegang is gratis.",
+    "image": "expositie.png",
+    "imageAlt": "Kunstwerken tentoongesteld in een galerie"
+  },
+  {
+    "category": "Duurzaamheid",
+    "dateValue": "2026-09-10",
+    "date": "10 september 2026",
+    "title": "Ruil je spullen tijdens de weggeefmiddag",
+    "content": "Geef spullen die je niet meer gebruikt een tweede leven. Breng iets mee of kom gewoon rondkijken.",
+    "image": "ruilmarkt.png",
+    "imageAlt": "Mensen bekijken spullen op een ruilmarkt"
+  },
+  {
+    "category": "Community",
+    "dateValue": "2026-09-09",
+    "date": "9 september 2026",
+    "title": "Koffie en nieuwe ontmoetingen",
+    "content": "Elke woensdag is er een gezellige koffietafel in het wijkcentrum. Schuif aan en leer je buren kennen.",
+    "image": "koffie.png",
+    "imageAlt": "Kopjes koffie op een tafel in het wijkcentrum"
+  },
+  {
+    "category": "Nieuws",
+    "dateValue": "2026-09-08",
+    "date": "8 september 2026",
+    "title": "De bibliotheek heeft ruimere openingstijden",
+    "content": "Vanaf deze week kun je ook op donderdagavond terecht om te lezen, studeren of boeken te lenen.",
+    "image": "bibliotheek.png",
+    "imageAlt": "Boekenplanken in de lokale bibliotheek"
+  },
+  {
+    "category": "Evenementen",
+    "dateValue": "2026-09-07",
+    "date": "7 september 2026",
+    "title": "Filmavond onder de sterren",
+    "content": "Neem een kleedje mee naar het grasveld voor een gratis filmavond in de buitenlucht.",
+    "image": "filmavond.png",
+    "imageAlt": "Openluchtfilm op een groot scherm in het park"
+  }
+]
