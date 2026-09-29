@@ -26,18 +26,18 @@ const extraPosts = [
         image: "insert.png",
         imageAlt: "Afbeelding bij het nieuwsbericht"
     },
-    {
-        category: "Sport",
-        dateValue: "2026-09-17",
-        date: "17 september 2026",
-        title: "Sportnieuws van vandaag",
-        content: "Tweede opdracht, Javascript gebouwde post.",
-        image: "insert.png",
-        imageAlt: "Afbeelding bij het sportbericht"
-    }
+    
 ];
 
 extraPosts.forEach((post) => {
     rootElement.innerHTML += createPost(post);
 });
+
+fetch("data.json")
+    .then((response) => response.json())
+    .then((posts) => {
+        posts.forEach((post) => {
+            rootElement.insertAdjacentHTML("beforeend", createPost(post));
+        });
+    });
 
